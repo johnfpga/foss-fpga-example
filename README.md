@@ -1,2 +1,2 @@
-# tiny-bx-symbiflow-example
-Example project which shows how to use symbiflow with the Tiny BX FPGA board
+# FOSS FPGA Example
+Example project which shows how open source tools can be used to build an image for the Tiny Bx board.
